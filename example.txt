@@ -1,2 +1,3 @@
 Login Page v3
 Password verification v2
+Sign Up page v3
