@@ -4,3 +4,5 @@ Animation Preview v3
 Login Page v3
 Password verification v2
 Sign Up page v3
+Navigation Bar v2
+Model upload v2
